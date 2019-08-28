@@ -7028,7 +7028,7 @@ span.rec-by {
     top: -4px;
     left: -4px;
     padding: 4px;
-    box-shadow: 0 0 0 3px #333;
+    box-shadow: 0 0 0 3px #fff;
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -webkit-transform: scale(0.8);
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
