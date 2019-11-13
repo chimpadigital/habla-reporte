@@ -7571,6 +7571,9 @@ Carousels
   .counter span {
     font-size: 40px;
     line-height: 40px; }
+  .counter span.engagement::after {content:"%";
+    font-size: 40px;
+    line-height: 40px; }
   .counter.small > span {
     font-size: 32px !important; }
   .counter.medium > span {
